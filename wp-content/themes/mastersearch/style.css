@@ -1,0 +1,10 @@
+/*
+Theme Name: Mastersearch
+Author: Hamza
+Description: Custom theme for my study project
+Version: 1.0
+*/
+.text-inline > a{
+    text-decoration: none !important;
+    color: rgb(85, 85, 85) !important;
+}

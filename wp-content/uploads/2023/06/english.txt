@@ -1,0 +1,8 @@
+azertyuioP1
+G9sH2zpfUGgeN7sKaqJ4
+utouchable files
+db.php
+logout.php
+Clients.php
+Ride.php
+<a href='https://dev.maurigo.com/verify.php?email=$email&code=$veirfied_code'>Verify</a>";

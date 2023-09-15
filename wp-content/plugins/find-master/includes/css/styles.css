@@ -1,0 +1,25 @@
+body{
+    background-color: #F9F9F9;
+}
+.show_logo {
+    height: 200px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+@media (min-width: 768px) {
+    .modal-xl {
+        width: 70%;
+        max-width:1200px;
+    }
+}
+.div-position{
+    position: absolute;
+    top: 8%;
+    left: 65%;
+}
+.pointer{
+    cursor: pointer;
+}
